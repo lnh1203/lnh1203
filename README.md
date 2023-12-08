@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python3-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 #### 연락처 Contact Information
-<img src="https://img.shields.io/badge/nhyeon1203-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/lnahyeon1022@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/lnahyeon1022@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
