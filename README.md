@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lnh1203/lnh1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
